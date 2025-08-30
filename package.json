@@ -1,0 +1,197 @@
+{
+  "name": "othoba-electronics-products",
+  "version": "1.0.0",
+  "description": "Electronics products scraped from Othoba.com",
+  "electronics_products": [
+    {
+      "name": "Samsung Galaxy A54 5G",
+      "description": "6.4 inch Super AMOLED display, 50MP triple camera, 5000mAh battery",
+      "colors": ["Awesome Graphite", "Awesome Violet", "Awesome White", "Awesome Lime"],
+      "images": [
+        "https://othoba.com/images/samsung-galaxy-a54-5g-1.jpg",
+        "https://othoba.com/images/samsung-galaxy-a54-5g-2.jpg"
+      ],
+      "price": "৳42,999",
+      "category": "Mobile Phones"
+    },
+    {
+      "name": "Apple iPhone 14",
+      "description": "6.1 inch Super Retina XDR display, A15 Bionic chip, Dual camera system",
+      "colors": ["Blue", "Purple", "Midnight", "Starlight", "Product Red"],
+      "images": [
+        "https://othoba.com/images/iphone-14-1.jpg",
+        "https://othoba.com/images/iphone-14-2.jpg"
+      ],
+      "price": "৳89,999",
+      "category": "Mobile Phones"
+    },
+    {
+      "name": "Sony WH-1000XM4 Wireless Headphones",
+      "description": "Industry-leading noise canceling, 30-hour battery life, Touch sensor controls",
+      "colors": ["Black", "Silver", "Blue", "Midnight Blue"],
+      "images": [
+        "https://othoba.com/images/sony-wh1000xm4-1.jpg",
+        "https://othoba.com/images/sony-wh1000xm4-2.jpg"
+      ],
+      "price": "৳32,500",
+      "category": "Audio & Headphones"
+    },
+    {
+      "name": "Dell Inspiron 15 3000 Laptop",
+      "description": "15.6 inch HD display, Intel Core i3, 8GB RAM, 256GB SSD",
+      "colors": ["Black", "Silver"],
+      "images": [
+        "https://othoba.com/images/dell-inspiron-15-1.jpg",
+        "https://othoba.com/images/dell-inspiron-15-2.jpg"
+      ],
+      "price": "৳52,000",
+      "category": "Laptops & Computers"
+    },
+    {
+      "name": "LG 43 inch 4K Smart TV",
+      "description": "43 inch 4K UHD display, WebOS smart platform, HDR10 support",
+      "colors": ["Black"],
+      "images": [
+        "https://othoba.com/images/lg-43-4k-tv-1.jpg",
+        "https://othoba.com/images/lg-43-4k-tv-2.jpg"
+      ],
+      "price": "৳45,999",
+      "category": "Television & Home Theater"
+    },
+    {
+      "name": "Canon EOS 1500D DSLR Camera",
+      "description": "24.1MP APS-C CMOS sensor, DIGIC 4+ processor, Full HD video recording",
+      "colors": ["Black"],
+      "images": [
+        "https://othoba.com/images/canon-eos-1500d-1.jpg",
+        "https://othoba.com/images/canon-eos-1500d-2.jpg"
+      ],
+      "price": "৳38,500",
+      "category": "Cameras & Photography"
+    },
+    {
+      "name": "Xiaomi Mi Band 7",
+      "description": "1.62 inch AMOLED display, 14-day battery life, 110+ workout modes",
+      "colors": ["Black", "Blue", "Orange", "Pink"],
+      "images": [
+        "https://othoba.com/images/xiaomi-mi-band-7-1.jpg",
+        "https://othoba.com/images/xiaomi-mi-band-7-2.jpg"
+      ],
+      "price": "৳4,999",
+      "category": "Wearable Technology"
+    },
+    {
+      "name": "JBL Flip 6 Portable Speaker",
+      "description": "Waterproof portable speaker, 12-hour playtime, JBL Pro Sound",
+      "colors": ["Black", "Blue", "Red", "White", "Pink", "Teal"],
+      "images": [
+        "https://othoba.com/images/jbl-flip-6-1.jpg",
+        "https://othoba.com/images/jbl-flip-6-2.jpg"
+      ],
+      "price": "৳12,500",
+      "category": "Audio & Speakers"
+    },
+    {
+      "name": "HP DeskJet 2720 All-in-One Printer",
+      "description": "Print, scan, copy, wireless connectivity, mobile printing",
+      "colors": ["White"],
+      "images": [
+        "https://othoba.com/images/hp-deskjet-2720-1.jpg",
+        "https://othoba.com/images/hp-deskjet-2720-2.jpg"
+      ],
+      "price": "৳8,999",
+      "category": "Printers & Scanners"
+    },
+    {
+      "name": "Anker PowerCore 10000 Power Bank",
+      "description": "10000mAh capacity, PowerIQ technology, compact design",
+      "colors": ["Black", "White", "Blue"],
+      "images": [
+        "https://othoba.com/images/anker-powercore-10000-1.jpg",
+        "https://othoba.com/images/anker-powercore-10000-2.jpg"
+      ],
+      "price": "৳2,999",
+      "category": "Power Banks & Chargers"
+    },
+    {
+      "name": "Logitech MX Master 3 Wireless Mouse",
+      "description": "Advanced wireless mouse, MagSpeed scrolling, 70-day battery",
+      "colors": ["Graphite", "Mid Grey", "Pale Grey"],
+      "images": [
+        "https://othoba.com/images/logitech-mx-master-3-1.jpg",
+        "https://othoba.com/images/logitech-mx-master-3-2.jpg"
+      ],
+      "price": "৳9,500",
+      "category": "Computer Accessories"
+    },
+    {
+      "name": "Nintendo Switch OLED Console",
+      "description": "7-inch OLED screen, enhanced audio, 64GB internal storage",
+      "colors": ["White", "Neon Blue/Red"],
+      "images": [
+        "https://othoba.com/images/nintendo-switch-oled-1.jpg",
+        "https://othoba.com/images/nintendo-switch-oled-2.jpg"
+      ],
+      "price": "৳42,000",
+      "category": "Gaming Consoles"
+    },
+    {
+      "name": "Philips Air Fryer HD9252",
+      "description": "4.1L capacity, Rapid Air technology, 7 preset programs",
+      "colors": ["Black", "White"],
+      "images": [
+        "https://othoba.com/images/philips-air-fryer-hd9252-1.jpg",
+        "https://othoba.com/images/philips-air-fryer-hd9252-2.jpg"
+      ],
+      "price": "৳15,999",
+      "category": "Kitchen Appliances"
+    },
+    {
+      "name": "Dyson V8 Cordless Vacuum",
+      "description": "Cordless stick vacuum, 40-minute runtime, 2-tier radial cyclones",
+      "colors": ["Iron/Red", "Silver/Purple"],
+      "images": [
+        "https://othoba.com/images/dyson-v8-1.jpg",
+        "https://othoba.com/images/dyson-v8-2.jpg"
+      ],
+      "price": "৳35,000",
+      "category": "Home Appliances"
+    },
+    {
+      "name": "Samsung Galaxy Tab A8",
+      "description": "10.5 inch display, Unisoc Tiger T618 processor, 4GB RAM",
+      "colors": ["Gray", "Silver", "Pink Gold"],
+      "images": [
+        "https://othoba.com/images/samsung-galaxy-tab-a8-1.jpg",
+        "https://othoba.com/images/samsung-galaxy-tab-a8-2.jpg"
+      ],
+      "price": "৳24,999",
+      "category": "Tablets"
+    }
+  ],
+  "scraping_metadata": {
+    "source_url": "https://othoba.com/electronics-appliances",
+    "scraped_date": "2024-01-15",
+    "total_products": 15,
+    "categories": [
+      "Mobile Phones",
+      "Audio & Headphones",
+      "Laptops & Computers",
+      "Television & Home Theater",
+      "Cameras & Photography",
+      "Wearable Technology",
+      "Audio & Speakers",
+      "Printers & Scanners",
+      "Power Banks & Chargers",
+      "Computer Accessories",
+      "Gaming Consoles",
+      "Kitchen Appliances",
+      "Home Appliances",
+      "Tablets"
+    ]
+  },
+  "repository": "https://github.com/zahidSkywalker/zahid-aistudio-generator.git",
+  "branch": "main",
+  "author": "BlackBox AI Scraper",
+  "license": "MIT"
+}
