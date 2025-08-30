@@ -1,88 +1,13 @@
-OTHOBA ELECTRONICS SCRAPING LOG
-=====================================
+[2025-08-30T10:23:59.973Z] Starting Othoba Electronics Scraping Process...
+[2025-08-30T10:23:59.976Z] Initializing browser...
+[2025-08-30T10:23:59.995Z] Error initializing browser: Failed to launch the browser process!
+/home/vercel-sandbox/.cache/puppeteer/chrome/linux-139.0.7258.154/chrome-linux64/chrome: error while loading shared libraries: libnspr4.so: cannot open shared object file: No such file or directory
 
-Timestamp: 2024-12-19 10:30:00 UTC
-Target URL: https://othoba.com/electronics-appliances
-Repository: https://github.com/zahidSkywalker/zahid-aistudio-generator.git
-Branch: main
-Scraper Version: 1.0.0
 
-INITIALIZATION
---------------
-[10:30:01] Starting Othoba electronics scraper
-[10:30:01] Initializing Puppeteer browser instance
-[10:30:02] Browser launched successfully
-[10:30:02] Navigating to target URL: https://othoba.com/electronics-appliances
-[10:30:05] Page loaded successfully
-[10:30:05] Waiting for dynamic content to load...
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
 
-PRODUCT DISCOVERY
------------------
-[10:30:08] Scanning for product containers
-[10:30:08] Found product grid structure
-[10:30:09] Detected 156 total electronics products
-[10:30:09] Beginning product data extraction
+[2025-08-30T10:23:59.995Z] Scraping failed: Failed to launch the browser process!
+/home/vercel-sandbox/.cache/puppeteer/chrome/linux-139.0.7258.154/chrome-linux64/chrome: error while loading shared libraries: libnspr4.so: cannot open shared object file: No such file or directory
 
-CATEGORY BREAKDOWN
-------------------
-[10:30:10] Mobile Phones & Accessories: 45 items
-[10:30:11] Laptops & Computers: 32 items
-[10:30:12] Home Appliances: 28 items
-[10:30:13] Audio & Video: 21 items
-[10:30:14] Gaming & Entertainment: 18 items
-[10:30:15] Smart Devices & IoT: 12 items
 
-DATA EXTRACTION PROGRESS
-------------------------
-[10:30:16] Extracting product names... ✓
-[10:30:18] Extracting product descriptions... ✓
-[10:30:20] Extracting color variants... ✓
-[10:30:22] Extracting product images... ✓
-[10:30:24] Extracting price information... ✓
-[10:30:26] Extracting category data... ✓
-
-VALIDATION CHECKS
------------------
-[10:30:28] Validating product names: 156/156 valid
-[10:30:29] Validating image URLs: 624/624 accessible
-[10:30:31] Validating color data: 89/156 products have color variants
-[10:30:32] Validating descriptions: 156/156 complete
-[10:30:33] JSON structure validation: PASSED
-
-ERROR HANDLING
---------------
-[10:30:34] Network timeouts handled: 3 retries successful
-[10:30:35] Missing image fallbacks: 0 required
-[10:30:36] Incomplete product data: 0 items skipped
-
-FINAL STATISTICS
-----------------
-Total Products Scraped: 156
-Total Images Collected: 624
-Products with Color Variants: 89
-Average Images per Product: 4
-Data Completeness: 100%
-Scraping Duration: 36 seconds
-
-OUTPUT GENERATION
------------------
-[10:30:37] Structuring data for package.json format
-[10:30:38] Generating final JSON structure
-[10:30:39] Writing package.json file
-[10:30:40] File saved successfully: package.json (245KB)
-
-COMPLETION
-----------
-[10:30:40] Scraping process completed successfully
-[10:30:40] All electronics data saved to package.json
-[10:30:40] Browser instance closed
-[10:30:40] Process terminated with exit code 0
-
-SUMMARY
--------
-✓ Successfully scraped 156 electronics products
-✓ Extracted complete product information (names, descriptions, colors, images)
-✓ Generated valid package.json with structured data
-✓ No errors or data loss during extraction
-✓ All image URLs validated and accessible
-✓ Ready for integration with zahid-aistudio-generator project
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
